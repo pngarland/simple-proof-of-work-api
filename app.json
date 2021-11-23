@@ -1,0 +1,8 @@
+{
+  "name": "MyHashCash",
+  "description": "A proof of work API implementation",
+  "repository": "",
+  "logo": "",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "MyHashCash",
+  "version": "0.1.0",
+  "description": "A proof of work API implementation",
+  "engines": {
+    "node": "14.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "got": "^11.8.3"
+  },
+  "devDependencies": {
+    "tape": "^4.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
